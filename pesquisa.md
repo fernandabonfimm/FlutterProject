@@ -17,3 +17,23 @@ Dart Web é utilizado para desenvolvimento web, ele possui o dart2js, que conver
 O React Native tem uma curva de aprendizado bem menor comparado ao Flutter. É um framework de codio aberto em javascript, como o Flutter. Porém como é em javascript e hoje existe uma grande gama de desenvolvedores React.js, a migração de um para outro é bem menor, comparada ao Flutter que é desenvolvido em Dart. 
 Ambos tem otimo desempenho em desenvolvido de aplicações nativas.
 Além do Google utilizar o Flutter em seus aplicativos outras grandes empresas também fazem o mesmo, como o Alibaba e recentemente a Nubank revelou que irá migrar seu aplicativo em React Native para Flutter.
+
+# Ambiente de Desenvolvimento
+
+1° Instale o VSCode ou algum editor de código fonte de sua preferência, link: https://code.visualstudio.com
+Ele servirá para escrevermos, desenvolvermos o projeto e os codigos com o Flutter.
+
+2° Instale o Android Studio, o Flutter utiliza CLI para desenvolvimento, então é precendivel o uso do android studio e sdk.
+Link: https://developer.android.com/studio
+
+3° Instale e configure o flutter em sua máquina. A instalação do flutter é bem simples. 
+- Instale o pacote em zip (caso de windows)
+- Descompate o pacote na paste da sua maquina, ex: OS (C:)
+- Rode o arquivo dart.bat em \flutter\bin
+- Configure nas variaveis de ambiente o flutter inserindo seu path de origem na sua máquina.
+- Rode flutter --version para verificar se a instalação funcionou.
+Link: https://docs.flutter.dev/get-started/install/windows
+
+# Command Lines (Criando projeto)
+- flutter create nome_projeto (essa command line cria um projeto novo)
+- flutter run (roda o projeto)
