@@ -37,3 +37,6 @@ Link: https://docs.flutter.dev/get-started/install/windows
 # Command Lines (Criando projeto)
 - flutter create nome_projeto (essa command line cria um projeto novo)
 - flutter run (roda o projeto)
+
+# Curiosidades
+1° Existe uma extensão no VSCODE 2019 para projetos em Flutter. É uma ótima extensão para desenvolvimento de projetos em flutter, para: Debuggar, rodar, refatorar códigos.
